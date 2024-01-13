@@ -1,10 +1,4 @@
-# 基于SSM的学生信息管理系统（教务选课系统）
-
-## 获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**学生** ，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的学生信息管理系统（教务选课系统）16
 
 ## 1、项目介绍
 
@@ -49,45 +43,38 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211061511411.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202211061511411.jpg)
 
 ### 4.2 学生模块
 
-![学生-选课](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211061511182.jpg)
+![学生-选课](https://www.codeshop.fun/Typora-Images/202211061511182.jpg)
 
-![学生-我的成绩](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211061511528.jpg)
+![学生-我的成绩](https://www.codeshop.fun/Typora-Images/202211061511528.jpg)
 
-![学生-评教](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211061511926.jpg)
+![学生-评教](https://www.codeshop.fun/Typora-Images/202211061511926.jpg)
 
 ### 4.3教师 模块
 
-![教师-课表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211061511199.jpg)
+![教师-课表](https://www.codeshop.fun/Typora-Images/202211061511199.jpg)
 
-![教师-课程评分](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211061511514.jpg)
+![教师-课程评分](https://www.codeshop.fun/Typora-Images/202211061511514.jpg)
 
-![教师-学生评分](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211061511597.jpg)
+![教师-学生评分](https://www.codeshop.fun/Typora-Images/202211061511597.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211061511687.jpg)
+![管理员-学生管理](https://www.codeshop.fun/Typora-Images/202211061511687.jpg)
 
-![管理员-课程管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211061511598.jpg)
+![管理员-课程管理](https://www.codeshop.fun/Typora-Images/202211061511598.jpg)
 
-![管理员-添加课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211061511252.jpg)
+![管理员-添加课程](https://www.codeshop.fun/Typora-Images/202211061511252.jpg)
 
-![管理员-教师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211061511195.jpg)
+![管理员-教师管理](https://www.codeshop.fun/Typora-Images/202211061511195.jpg)
 
-![管理员-班级管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211061511509.jpg)
+![管理员-班级管理](https://www.codeshop.fun/Typora-Images/202211061511509.jpg)
 
-## 5、视频演示
+## 获取方式
 
-[点击播放视频，视频位于文章最后](输入链接)
+下方扫一扫关注后，后台回复关键词：**学生**，查看导入教程视频、sql脚本和源码等
 
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ： **学生**，获取完整版源码
-
-
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
